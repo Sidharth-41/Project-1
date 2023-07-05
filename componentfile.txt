@@ -20,3 +20,6 @@ text added once remote is setup
 
 
 changes made in the file to check if it gets reflected in the other VS code
+
+
+changes made in project 2
