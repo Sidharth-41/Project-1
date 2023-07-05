@@ -3,4 +3,7 @@ this is a sample component text file
 new line added to text file in line 3 
 
 
-updated text added in to text file
+updated text added in to text file - minor change
+
+
+text added for third commit
